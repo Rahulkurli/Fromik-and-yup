@@ -1,0 +1,15 @@
+.form {
+  width: 30%;
+  margin-top: 150px;
+  background-color: rgb(47, 47, 67);
+  background-size: auto;
+  background-size: cover;
+}
+#fname {
+  width: 48%;
+  float: left;
+}
+#lname {
+  width: 49%;
+  float: right;
+}
